@@ -1,0 +1,5 @@
+users = {	'Khoa':['S484', 1998, 'male'],
+        'Hoa': ['S145', 1996, 'female'],
+        'Kha': ['S428', 1997, 'male'],
+        'Anh': ['S260', 1999, 'female'],
+}
